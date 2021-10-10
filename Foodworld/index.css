@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    text-align: center;
+}
+#header{
+    background-color: black;
+    height: 70px;
+    
+}
+h1 {
+    color: white;
+    text-align: left;
+}
+body {
+    background: linear-gradient(45deg, grey, white),black;
+}
+#brand {
+    width: 40%;
+    float: left;
+    line-height: 70px;
+    height: 70px;
+    text-align: center;
+}
+
+#menu{
+    width: 60%;
+    float: right;
+    line-height: 70px;
+    height: 70px;
+    text-align: center;
+}
+a {
+    color: cornsilk;
+    margin-right: 30px;
+    text-decoration: none;
+}
+#title {
+    margin-top: 100px;
+    background-color: beige;
+    width: 200px;
+    margin: auto;
+}
+#dp{
+    margin-top: 30px;
+    background-color: white;
+    width: 300px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 10px;
+}
+#TB{
+    margin-top: 30px;
+    background-color: white;
+    width: 300px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 10px;
+}
+#RD{
+    margin-top: 30px;
+    background-color: white;
+    width: 300px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 10px;
+}
+#pizza {
+    padding: 10px;
+}
+#burger {
+    padding: 10px;
+}
+#drinks {
+    padding: 10px;
+}
+table{
+    width: 100%;
+    margin-top: 30px;
+}
+img{
+    border-radius: 20px;
+    box-shadow: darkgray;
+}
+
+p{
+    margin-top: 15px;
+}
+
+#footer{
+    background: black;
+    padding: 20px;
+    color: cornflowerblue;
+    float: center;
+
+}
+#copyright{
+    text-align: center;
+    color: white;
+
+}
+#FT{
+    float: center;
+    color: white;
+    text-align: center;
+}
